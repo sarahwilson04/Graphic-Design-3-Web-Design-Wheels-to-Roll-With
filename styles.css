@@ -1,0 +1,122 @@
+@charset "UTF-8";
+
+/* https://atomskates.com/pages/quad-wheel-technology */
+
+/*dark grey   #44443b
+red   #d50030
+blue #4b9bd0
+light grey #c2c4b9
+light red #ffbfd8
+light blue #8fdaff
+*/
+
+h1 {
+	font-family: 'Sonsie One', cursive;
+	font-size: 20px;
+	line-height: 60px;
+	color: #d50030;
+	letter-spacing: .8px;
+	text-align: left;
+	font-weight: 10;
+	margin: 24px 10 12px 0;
+	
+ }
+ h2 {
+	font-family: 'Sonsie One', cursive;
+	font-size: 48px;
+	line-height: 52px;
+	color: #4b9bd0;
+	letter-spacing: .8px;
+	text-align: left;
+	font-weight: 100;
+	margin: 24px 10 12px 0;
+	 
+ }
+ h3 {
+	font-family: 'Sonsie One', cursive;
+	font-size: 20px;
+	line-height: 22px;
+	color: #44443b;
+	letter-spacing: .9px;
+	text-align: left;	
+	font-weight: 100;
+	margin: 24px 10 12px 0;
+
+ }
+
+ h4 {
+	font-family: 'Sonsie One', cursive;
+	font-size: 16px;
+	line-height: 22px;
+	color: #333333;
+	letter-spacing: .9px;
+	text-align: left;	
+	font-weight: 100;
+	margin: 24px 0 12px 0;
+
+ }
+  p {
+	font-family: 'Convergence', sans-serif;
+	font-size: 12px;
+	line-height: 20px;
+	color: #333333;
+	letter-spacing: .9px;
+	text-align: left;
+	margin: -12px 0 12px 0;
+	font-weight: 600;
+ }
+
+  body {
+	background-color: #44443b;
+	color: #fff;
+}
+
+.name {
+	font-family: 'Sonsie One', cursive;
+	font-size: 28px;
+	line-height: 18px;
+	font-weight: 700;
+	margin-top: 0px;
+	color: #d50030;
+ }
+.price {
+	font-family: 'Convergence', sans-serif;
+	font-size: 16px;
+	line-height: 15px;
+	color: #ff9197;
+	letter-spacing: .9px;
+	text-align: left;
+	font-weight: 900;
+	padding-bottom: 24px;
+ }
+  
+ .story {
+	position: absolute;
+	left: 80px;
+	top: 50px;
+	width: 580px;
+	height: auto;
+	background-color: #ffbfd8;
+	padding: 10px;
+	border: 20px inset #4b9bd0
+ }
+ .story2 {
+	position: absolute;
+	left: 750px;
+	top: 50px;
+	width: 375px;
+	height: auto;
+	background-color: #c2c4b9;
+	padding: 10px;
+	border: 20px outset #d50030
+ }
+ .story3 {
+	position: absolute;
+	left: 80px;
+	top: 375px;
+	width: 620px;
+	height: auto;
+	background-color: #4b9bd0;
+	padding: 10px;
+ }
+  
